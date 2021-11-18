@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielWrld
-- 👀 I’m interested in Pawn, C#/C++ Programming Language.
-- 🌱 I’m currently learning Pawn, C#/C++.
+- 👀 I’m interested in Pawn
+- 🌱 I’m currently learning Pawn, 
 
 <!---
 GabrielWrld/GabrielWrld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
